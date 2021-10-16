@@ -1,0 +1,16 @@
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.exe
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.deps.json
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.runtimeconfig.json
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.runtimeconfig.dev.json
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.dll
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ref\ReferanceTypes.dll
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\bin\Debug\net5.0\ReferanceTypes.pdb
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.csprojAssemblyReference.cache
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.AssemblyInfoInputs.cache
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.AssemblyInfo.cs
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.csproj.CoreCompileInputs.cache
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.dll
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ref\ReferanceTypes.dll
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.pdb
+C:\campCSHomework\ReferanceTypes\ReferanceTypes\obj\Debug\net5.0\ReferanceTypes.genruntimeconfig.cache
