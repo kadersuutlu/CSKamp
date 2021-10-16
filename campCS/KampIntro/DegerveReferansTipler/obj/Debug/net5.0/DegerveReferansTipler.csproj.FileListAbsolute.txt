@@ -1,0 +1,15 @@
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\DegerveReferansTipler.exe
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\DegerveReferansTipler.deps.json
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\DegerveReferansTipler.runtimeconfig.json
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\DegerveReferansTipler.runtimeconfig.dev.json
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\DegerveReferansTipler.dll
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\ref\DegerveReferansTipler.dll
+C:\campCS\KampIntro\DegerveReferansTipler\bin\Debug\net5.0\DegerveReferansTipler.pdb
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.AssemblyInfoInputs.cache
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.AssemblyInfo.cs
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.csproj.CoreCompileInputs.cache
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.dll
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\ref\DegerveReferansTipler.dll
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.pdb
+C:\campCS\KampIntro\DegerveReferansTipler\obj\Debug\net5.0\DegerveReferansTipler.genruntimeconfig.cache

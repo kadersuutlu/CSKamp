@@ -1,0 +1,16 @@
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.exe
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.deps.json
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.runtimeconfig.json
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.runtimeconfig.dev.json
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.dll
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\ref\KampIntro.dll
+C:\campCS\KampIntro\KampIntro\bin\Debug\net5.0\KampIntro.pdb
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.csprojAssemblyReference.cache
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.AssemblyInfoInputs.cache
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.AssemblyInfo.cs
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.csproj.CoreCompileInputs.cache
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.dll
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\ref\KampIntro.dll
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.pdb
+C:\campCS\KampIntro\KampIntro\obj\Debug\net5.0\KampIntro.genruntimeconfig.cache

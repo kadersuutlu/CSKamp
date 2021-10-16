@@ -1,0 +1,16 @@
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\Matematik.exe
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\Matematik.deps.json
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\Matematik.runtimeconfig.json
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\Matematik.runtimeconfig.dev.json
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\Matematik.dll
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\ref\Matematik.dll
+C:\campCS\KampIntro\Matematik\bin\Debug\net5.0\Matematik.pdb
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.csprojAssemblyReference.cache
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.AssemblyInfoInputs.cache
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.AssemblyInfo.cs
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.csproj.CoreCompileInputs.cache
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.dll
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\ref\Matematik.dll
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.pdb
+C:\campCS\KampIntro\Matematik\obj\Debug\net5.0\Matematik.genruntimeconfig.cache

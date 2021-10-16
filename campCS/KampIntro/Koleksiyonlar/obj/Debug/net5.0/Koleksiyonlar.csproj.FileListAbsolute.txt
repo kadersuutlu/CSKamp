@@ -1,0 +1,16 @@
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.exe
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.deps.json
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.json
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.runtimeconfig.dev.json
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.dll
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\campCS\KampIntro\Koleksiyonlar\bin\Debug\net5.0\Koleksiyonlar.pdb
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csprojAssemblyReference.cache
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfoInputs.cache
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.AssemblyInfo.cs
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.csproj.CoreCompileInputs.cache
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.dll
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\ref\Koleksiyonlar.dll
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.pdb
+C:\campCS\KampIntro\Koleksiyonlar\obj\Debug\net5.0\Koleksiyonlar.genruntimeconfig.cache
