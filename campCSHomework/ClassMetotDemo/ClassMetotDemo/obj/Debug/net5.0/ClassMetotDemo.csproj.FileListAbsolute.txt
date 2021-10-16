@@ -1,0 +1,16 @@
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.exe
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.deps.json
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.runtimeconfig.json
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.runtimeconfig.dev.json
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.dll
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ref\ClassMetotDemo.dll
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\bin\Debug\net5.0\ClassMetotDemo.pdb
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.csprojAssemblyReference.cache
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.AssemblyInfoInputs.cache
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.AssemblyInfo.cs
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.csproj.CoreCompileInputs.cache
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.dll
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ref\ClassMetotDemo.dll
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.pdb
+C:\campCSHomework\ClassMetotDemo\ClassMetotDemo\obj\Debug\net5.0\ClassMetotDemo.genruntimeconfig.cache
