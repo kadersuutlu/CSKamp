@@ -1,0 +1,16 @@
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\Generics.exe
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\Generics.deps.json
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\Generics.runtimeconfig.json
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\Generics.runtimeconfig.dev.json
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\Generics.dll
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\ref\Generics.dll
+C:\campCSHomework\ReferanceTypes\Generics\bin\Debug\net5.0\Generics.pdb
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.csprojAssemblyReference.cache
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.AssemblyInfoInputs.cache
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.AssemblyInfo.cs
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.csproj.CoreCompileInputs.cache
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.dll
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\ref\Generics.dll
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.pdb
+C:\campCSHomework\ReferanceTypes\Generics\obj\Debug\net5.0\Generics.genruntimeconfig.cache
