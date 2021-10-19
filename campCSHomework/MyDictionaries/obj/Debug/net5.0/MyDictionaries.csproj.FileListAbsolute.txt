@@ -1,0 +1,16 @@
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\MyDictionaries.exe
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\MyDictionaries.deps.json
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\MyDictionaries.runtimeconfig.json
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\MyDictionaries.runtimeconfig.dev.json
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\MyDictionaries.dll
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\ref\MyDictionaries.dll
+C:\campCSHomework\MyDictionaries\bin\Debug\net5.0\MyDictionaries.pdb
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.csprojAssemblyReference.cache
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.GeneratedMSBuildEditorConfig.editorconfig
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.AssemblyInfoInputs.cache
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.AssemblyInfo.cs
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.csproj.CoreCompileInputs.cache
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.dll
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\ref\MyDictionaries.dll
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.pdb
+C:\campCSHomework\MyDictionaries\obj\Debug\net5.0\MyDictionaries.genruntimeconfig.cache
