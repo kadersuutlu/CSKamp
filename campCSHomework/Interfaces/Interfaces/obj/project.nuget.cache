@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlqnpysizVe6febxbUoNJnJ5uOMVkoqJcAV8a+XTFVWI52J1/bEDcjCd0/GbIehPxKdWJZy8N0TijINWum4XKw==",
+  "success": true,
+  "projectFilePath": "C:\\Kamp\\Interfaces\\Interfaces\\Interfaces.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

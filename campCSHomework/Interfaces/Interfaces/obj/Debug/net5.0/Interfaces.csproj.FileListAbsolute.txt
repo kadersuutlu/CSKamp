@@ -1,0 +1,16 @@
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.exe
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.deps.json
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.json
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.runtimeconfig.dev.json
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.dll
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\ref\Interfaces.dll
+C:\Kamp\Interfaces\Interfaces\bin\Debug\net5.0\Interfaces.pdb
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.AssemblyReference.cache
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfoInputs.cache
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.AssemblyInfo.cs
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.csproj.CoreCompileInputs.cache
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.dll
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\ref\Interfaces.dll
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.pdb
+C:\Kamp\Interfaces\Interfaces\obj\Debug\net5.0\Interfaces.genruntimeconfig.cache
