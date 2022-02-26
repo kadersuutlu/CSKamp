@@ -1,0 +1,7 @@
+C:\Kamp\Classes\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Kamp\Classes\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Kamp\Classes\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Kamp\Classes\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.SuggestedBindingRedirects.cache
+C:\Kamp\Classes\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Kamp\Classes\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Kamp\Classes\InterfacesDemo\obj\Debug\InterfacesDemo.pdb

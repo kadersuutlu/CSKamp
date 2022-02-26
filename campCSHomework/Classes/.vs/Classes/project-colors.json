@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9b84d608-6567-4227-8c45-c13879321231": {
+      "ProjectGuid": "9b84d608-6567-4227-8c45-c13879321231",
+      "DisplayName": "Classes",
+      "ColorIndex": 0
+    },
+    "0650e75e-4feb-461f-8c38-86d8f69f1feb": {
+      "ProjectGuid": "0650e75e-4feb-461f-8c38-86d8f69f1feb",
+      "DisplayName": "ReCapDemo1",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

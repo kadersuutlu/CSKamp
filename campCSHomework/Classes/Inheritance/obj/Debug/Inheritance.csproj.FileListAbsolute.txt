@@ -1,0 +1,7 @@
+C:\Kamp\Classes\Inheritance\bin\Debug\Inheritance.exe.config
+C:\Kamp\Classes\Inheritance\bin\Debug\Inheritance.exe
+C:\Kamp\Classes\Inheritance\bin\Debug\Inheritance.pdb
+C:\Kamp\Classes\Inheritance\obj\Debug\Inheritance.csproj.SuggestedBindingRedirects.cache
+C:\Kamp\Classes\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+C:\Kamp\Classes\Inheritance\obj\Debug\Inheritance.exe
+C:\Kamp\Classes\Inheritance\obj\Debug\Inheritance.pdb

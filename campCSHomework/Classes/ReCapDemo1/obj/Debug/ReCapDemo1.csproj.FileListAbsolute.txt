@@ -1,0 +1,11 @@
+C:\Kamp\Classes\ReCapDemo1\bin\Debug\ReCapDemo1.exe.config
+C:\Kamp\Classes\ReCapDemo1\bin\Debug\ReCapDemo1.exe
+C:\Kamp\Classes\ReCapDemo1\bin\Debug\ReCapDemo1.pdb
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.csproj.AssemblyReference.cache
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.csproj.SuggestedBindingRedirects.cache
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.Form1.resources
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.Properties.Resources.resources
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.csproj.GenerateResource.cache
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.csproj.CoreCompileInputs.cache
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.exe
+C:\Kamp\Classes\ReCapDemo1\obj\Debug\ReCapDemo1.pdb

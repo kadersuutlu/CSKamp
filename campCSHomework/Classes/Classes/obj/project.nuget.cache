@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7iS1UVA1jibQvtaUhkwEOPX240TSZgwyBVZR+zCtwRLQPxYw+O6C6AFG/Nu/YcAdbaSx0p8+lMKsPlyKLl6Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Kamp\\Classes\\Classes\\Classes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

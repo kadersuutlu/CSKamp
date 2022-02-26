@@ -1,0 +1,16 @@
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\Classes.exe
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\Classes.deps.json
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.json
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\Classes.runtimeconfig.dev.json
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\Classes.dll
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\ref\Classes.dll
+C:\Kamp\Classes\Classes\bin\Debug\net5.0\Classes.pdb
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.csproj.AssemblyReference.cache
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfoInputs.cache
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.AssemblyInfo.cs
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.csproj.CoreCompileInputs.cache
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.dll
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\ref\Classes.dll
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.pdb
+C:\Kamp\Classes\Classes\obj\Debug\net5.0\Classes.genruntimeconfig.cache
